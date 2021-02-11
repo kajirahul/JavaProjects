@@ -1,2 +1,2 @@
 # JavaProjects
-Java Projects for fun.
+Java projects for fun.
